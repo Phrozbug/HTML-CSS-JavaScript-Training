@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
+::placeholder {
+  color: #fff;
+  opacity: 1; 
+  
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+    height:100%;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 22px;
+    color: #fff;
+    margin-bottom: 8px;
+    margin-top: 30px;
+    }
+    
+h1 {
+    font-weight: 800;
+    font-size: 95.57px;
+    color: #fff;
+    margin-top: 30px
+    
+    
+}
+    
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #FB3796, #585DFE  );
+    height: 260px;
+}
+
+.user-input{
+    display: flex;
+    justify-content: center;
+    margin:0 0 0 0;
+    padding: 10px 0;
+    font-size: 97.57px;
+    font-weight: 800;
+    color: #fff
+}
+
+input{
+    border: 0;
+    outline: none;
+    text-align: center;
+    font-size: 97.57px;
+    font-weight: 800;
+    color: white;
+    background: transparent;
+    padding: 10px 0;
+    margin-bottom: 30px;
+}
+.bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    height: 290px;
+}
+
+.bottom > .bottomHeader {
+    color: #fff;
+    font-weight: 600;  
+    font-size: 14px;
+}
+
+.bottom > p {
+    color: #D2D2D2;
+    font-weight: 400;
+    font-size: 14px;   
+}
