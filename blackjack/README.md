@@ -1,4 +1,4 @@
-# JavaScript Metric/Imperial Unit Coversion
+# JavaScript Blackjack
 ## Solo project at Scrimba
 ### Coder: Marc Roelofs
 Focus on:
