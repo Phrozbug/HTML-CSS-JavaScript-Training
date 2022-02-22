@@ -2,6 +2,8 @@
 ## Solo project at Scrimba
 ### Coder: Marc Roelofs
 Focus on:
+* CSS
+* JavaScript
 * document.getElementById
 * Functions in JavaScript
 * Math.floor( Math.random() )
