@@ -1,5 +1,5 @@
 # JavaScript Metric/Imperial Unit Coversion
-## olo project at Scrimba
+## Solo project at Scrimba
 ### Coder: Marc Roelofs
 Focus on:
 * arrays
