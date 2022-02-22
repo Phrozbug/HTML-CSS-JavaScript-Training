@@ -1,5 +1,5 @@
 # JavaScript Blackjack
-## Solo project at Scrimba
+## Project at Scrimba
 ### Coder: Marc Roelofs
 Focus on:
 * arrays
