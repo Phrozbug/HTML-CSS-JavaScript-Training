@@ -20,8 +20,5 @@ function generatePasswords() {
     document.getElementById("pw-display2").placeholder = passwordTwo
     document.getElementById("pw-display3").placeholder = passwordThree
     document.getElementById("pw-display4").placeholder = passwordFour
-    console.log(passwordOne)
-    console.log(passwordTwo)
-    console.log(passwordThree)
-    console.log(passwordFour)
+
 }
