@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Karla:wght@800&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #9CA3AF;
+    display: flex;
+    justify-content: center;
+    
+}
+.container {
+    margin-top: 25%;
+    width: 550px;
+    height: 550px;
+    background-color: #1F2937
+}
+.top {
+    margin-left: 52px;
+    margin-top: 118px;
+}
+
+h1 {
+    color: white;
+    font-family: Karla;
+    font-weight: 800;
+    font-size: 40px;
+    
+}
+
+span.green {
+    color: #4ADF86;
+}
+
+h4 {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 20px;
+    color: #9CA3AF;
+}
+
+button {
+    background-color: #10B981;
+    color: #fff;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 16px;
+    width: 223px;
+    height: 42px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 51px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+}
+
+hr {
+    border: 1px solid #2F3E53;
+    width: 455px;
+    margin-left: 0;
+    margin-top: 26px;
+}
+
+
+input {
+    background-color: #273549;
+    width: 211px;
+    height: 39px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 26px;
+}
+
+input#pw-display1 {
+    margin-right: 24px
+    
+}
+input#pw-display3 {
+    margin-right: 24px
+    
+}
+
+::-webkit-input-placeholder {
+    color: #55F991;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+ }
+
+:-moz-placeholder {
+    color: #55F991;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
