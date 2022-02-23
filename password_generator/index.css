@@ -82,23 +82,10 @@ input#pw-display3 {
     
 }
 
-::-webkit-input-placeholder {
+input[value] { 
     color: #55F991;
     font-family: Inter;
     font-size: 16px;
     font-weight: 500;
-    display: flex;
-    justify-content: center;
     text-align: center;
- }
-
-:-moz-placeholder {
-    color: #55F991;
-    font-family: Inter;
-    font-size: 16px;
-    font-weight: 500;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-}
-
+    }
