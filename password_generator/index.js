@@ -17,7 +17,7 @@ function generatePasswords() {
     passwordFour += allChar[randomNumber4]
     }
     document.getElementById("pw-display1").value = passwordOne
-    document.getElementById("pw-display2").value = passwordTwo
+    document.getElementById("pw-display2").value = passwordTwo 
     document.getElementById("pw-display3").value = passwordThree
     document.getElementById("pw-display4").value = passwordFour
 
